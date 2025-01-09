@@ -1,5 +1,5 @@
 
-**##Ochi**
+**Ochi**
 
 Ochi is an innovative webpage crafted to highlight advanced scroll animations through the seamless integration of GSAP, Locomotive Scroll, and React.js. Designed with a focus on delivering smooth and visually striking transitions, Ochi serves as a dynamic demonstration of how these technologies can be combined to create an engaging and immersive user experience.
 ## Features
